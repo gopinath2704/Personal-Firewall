@@ -1,5 +1,5 @@
 ````markdown
-# 🔥 Python Personal Firewall (Scapy + iptables + Tkinter)
+🔥 Python Personal Firewall (Scapy + iptables + Tkinter)
 
 A **lightweight personal firewall for Linux** built using **Python, Scapy, iptables, and Tkinter**.  
 It allows you to:
@@ -15,12 +15,12 @@ This project is designed for **learning, labs, and demonstration purposes**.
 
 ---
 
-## 🛠 Requirements
+🛠 Requirements
 
-### Operating System
+Operating System
 Linux (Ubuntu / Kali / Debian recommended)
 
-### Dependencies
+Dependencies
 Install these first:
 
 ```bash
@@ -192,5 +192,3 @@ Do **not** deploy on production systems without professional review.
 Feel free to fork, improve, and submit PRs!
 
 ---
-If you want, tell me your **repo name + short description**, and I can tailor the header and intro to match it exactly 👍
-```
