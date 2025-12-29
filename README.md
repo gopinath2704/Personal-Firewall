@@ -1,4 +1,3 @@
-````markdown
 🔥 Python Personal Firewall (Scapy + iptables + Tkinter)
 
 A **lightweight personal firewall for Linux** built using **Python, Scapy, iptables, and Tkinter**.  
