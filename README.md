@@ -130,13 +130,6 @@ Always test in a **controlled or virtual environment**.
 
 ---
 
-## 👨‍💻 Author
-
-**Shadow**
-Cybersecurity & Pentesting Enthusiast
-
----
-
 ## 📄 License
 
 This project is for **educational purposes only**.
